@@ -1,5 +1,6 @@
 # Certified Tech Developer - Digital House
 ## FrontEnd 1
-Espacio de prácticas para FRONTEND I de Certified Tech Developer.
+Espacio de prácticas.
 
-Maquetación y etiquetas HTML.
+- Maquetación 
+- Etiquetas HTML.
